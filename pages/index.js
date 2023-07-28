@@ -22,10 +22,9 @@ export default function Home({ allPostsData }) {
             </Head>
             <section className={utilStyles.headingMd}>
                 <p>
-                    Hello! My name is Nathan. I write computer programs at a
-                    company for money. I also write blog posts about programming
-                    and other related subjects. I hope you enjoy your time on my
-                    site.
+                    Welcome to my blog! I am a Software Engineer and I use this
+                    site to write about topics that are interesting to me.
+                    Please enjoy!
                 </p>
             </section>
             <section
