@@ -1,5 +1,5 @@
 ---
-title: 'Longest Palindromic Substring: JavaScript'
+title: 'Longest Palindromic Substring'
 date: '2022-04-13'
 ---
 

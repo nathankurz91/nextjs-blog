@@ -1,5 +1,5 @@
 ---
-title: 'Find the Length of the Last Word in a String - javascript'
+title: 'Find the Length of the Last Word in a String'
 date: '2023-05-31'
 ---
 
